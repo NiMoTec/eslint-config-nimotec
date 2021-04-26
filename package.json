@@ -31,12 +31,12 @@
     "@vue/eslint-config-typescript": "^7.0.0",
     "eslint": "^7.25.0",
     "eslint-config-airbnb-typescript": "^12.3.1",
-    "eslint-config-prettier": "^8.3.0",
-    "eslint-plugin-prettier": "^3.4.0",
-    "eslint-plugin-vue": "^7.9.0"
+    "eslint-config-prettier": "^8.3.0"
   },
   "peerDependencies": {
-    "@typescript-eslint/eslint-plugin": ">= 4.0.0"
+    "@typescript-eslint/eslint-plugin": ">= 4.0.0",
+    "eslint-plugin-prettier": ">= 3.0.0",
+    "eslint-plugin-vue": ">= 7.0.0"
   },
   "devDependencies": {
     "@commitlint/cli": "^12.1.1",
