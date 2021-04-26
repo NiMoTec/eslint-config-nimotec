@@ -1,22 +1,39 @@
 {
-	"name": "@nimotec/eslint-config",
-	"version": "1.0.0",
-	"description": "ESLint Config for all NiMoTec projects",
-	"main": "index.js",
-	"scripts": {},
-	"repository": {
-		"type": "git",
-		"url": "git+https://github.com/NiMoTec/eslint-config-nimotec.git"
-	},
-	"keywords": [],
-	"author": {
-		"email": "zeferinix@gmail.com",
-		"name": "Cerino O. Ligutom III",
-		"url": "https://www.zeferinix.com"
-	},
-	"license": "MIT",
-	"bugs": {
-		"url": "https://github.com/NiMoTec/eslint-config-nimotec/issues"
-	},
-	"homepage": "https://github.com/NiMoTec/eslint-config-nimotec#readme"
+  "name": "@nimotec/eslint-config",
+  "version": "1.0.0",
+  "description": "ESLint Config for all NiMoTec projects",
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "vue.js"
+  ],
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NiMoTec/eslint-config-nimotec.git"
+  },
+  "keywords": [],
+  "author": {
+    "email": "zeferinix@gmail.com",
+    "name": "Cerino O. Ligutom III",
+    "url": "https://www.zeferinix.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NiMoTec/eslint-config-nimotec/issues"
+  },
+  "homepage": "https://github.com/NiMoTec/eslint-config-nimotec#readme",
+  "dependencies": {
+    "@vue/eslint-config-airbnb": "^5.3.0",
+    "@vue/eslint-config-typescript": "^7.0.0",
+    "eslint": "^7.25.0",
+    "eslint-config-airbnb-typescript": "^12.3.1",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-prettier": "^3.4.0",
+    "eslint-plugin-vue": "^7.9.0",
+    "prettier": "^2.2.1"
+  },
+  "peerDependencies": {
+    "@typescript-eslint/eslint-plugin": ">= 4.0.0"
+  }
 }
