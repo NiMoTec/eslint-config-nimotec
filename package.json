@@ -1,0 +1,22 @@
+{
+	"name": "@nimotec/eslint-config",
+	"version": "1.0.0",
+	"description": "ESLint Config for all NiMoTec projects",
+	"main": "index.js",
+	"scripts": {},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/NiMoTec/eslint-config-nimotec.git"
+	},
+	"keywords": [],
+	"author": {
+		"email": "zeferinix@gmail.com",
+		"name": "Cerino O. Ligutom III",
+		"url": "https://www.zeferinix.com"
+	},
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/NiMoTec/eslint-config-nimotec/issues"
+	},
+	"homepage": "https://github.com/NiMoTec/eslint-config-nimotec#readme"
+}
