@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.2.2](https://github.com/NiMoTec/eslint-config-nimotec/compare/v0.2.1...v0.2.2) (2021-05-01)
+
+
+### Features
+
+* added more rules ([08c9a1a](https://github.com/NiMoTec/eslint-config-nimotec/commit/08c9a1ad482bb55a4acbe3481daa80e179516d9f))
+
 ### 0.2.1 (2021-04-26)
 
 
