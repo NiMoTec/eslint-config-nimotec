@@ -27,7 +27,7 @@
     "url": "https://github.com/NiMoTec/eslint-config-nimotec/issues"
   },
   "homepage": "https://github.com/NiMoTec/eslint-config-nimotec#readme",
-  "peerDependencies": {
+  "dependencies": {
     "@typescript-eslint/eslint-plugin": "^4.22.0",
     "@vue/eslint-config-airbnb": "^5.3.0",
     "@vue/eslint-config-typescript": "^7.0.0",
