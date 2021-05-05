@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.2.3](https://github.com/NiMoTec/eslint-config-nimotec/compare/v0.2.2...v0.2.3) (2021-05-05)
+
+
+### Bug Fixes
+
+* from peerDeps to deps ([3110353](https://github.com/NiMoTec/eslint-config-nimotec/commit/31103530b01992f306b4bfd024dc868bf59715ab))
+
 ### [0.2.2](https://github.com/NiMoTec/eslint-config-nimotec/compare/v0.2.1...v0.2.2) (2021-05-01)
 
 
