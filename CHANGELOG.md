@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.2.4](https://github.com/NiMoTec/eslint-config-nimotec/compare/v0.2.3...v0.2.4) (2021-05-05)
+
+
+### Bug Fixes
+
+* deps and vue eslint ([6825e92](https://github.com/NiMoTec/eslint-config-nimotec/commit/6825e92137b311660649a3c05f0d533c44ae24c7))
+
 ### [0.2.3](https://github.com/NiMoTec/eslint-config-nimotec/compare/v0.2.2...v0.2.3) (2021-05-05)
 
 
