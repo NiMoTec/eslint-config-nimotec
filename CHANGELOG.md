@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.2.6](https://github.com/NiMoTec/eslint-config-nimotec/compare/v0.2.5...v0.2.6) (2021-06-26)
+
+
+### Bug Fixes
+
+* add no-shadow rule ([265c970](https://github.com/NiMoTec/eslint-config-nimotec/commit/265c9706dfff29da99cb6c6a331b4673c7766d98))
+
 ### [0.2.5](https://github.com/NiMoTec/eslint-config-nimotec/compare/v0.2.4...v0.2.5) (2021-05-05)
 
 

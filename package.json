@@ -1,6 +1,6 @@
 {
   "name": "@nimotec/eslint-config",
-  "version": "0.2.5",
+  "version": "0.2.6",
   "description": "ESLint Config for all NiMoTec projects",
   "main": "index.js",
   "files": [
